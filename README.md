@@ -1,2 +1,2 @@
 # Capstone-Project
-This is the basic file.
+# This is a collection of my notebooks for the Data Science  Capstone Project.
